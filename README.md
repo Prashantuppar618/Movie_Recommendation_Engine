@@ -1,5 +1,4 @@
 
-````markdown
 # 🎬 Movie Recommendation Engine – Structured Enquiry Project
 
 This is a simple yet effective **C-based CLI application** that recommends movies based on user input and structured matching logic using **search strings**, **genre filtering**, and **viewership ranking**.
